@@ -2,6 +2,7 @@
 
 Welcome to the Traffic Prediction project! This project uses machine learning to predict traffic congestion. We look at factors like time of day, day of the week, weather, and the number of vehicles. Our goal is to help city residents and commuters by providing insights for better traffic management and planning.
 
+
 ## 📋 Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset Description](#dataset-description)
@@ -11,7 +12,8 @@ Welcome to the Traffic Prediction project! This project uses machine learning to
 6. [Implementation](#implementation)
 7. [Evaluation Metrics](#evaluation-metrics)
 8. [Results](#results)
-9. [Conclusion](#conclusion)
+9. [How to Run](#HowtoRun)
+10. [Conclusion](#conclusion)
 
 ## 📝 Introduction
 The Traffic Prediction project leverages a machine learning approach to analyze traffic data and predict congestion levels. By understanding the patterns and factors contributing to traffic, we aim to provide actionable insights for efficient traffic management.
@@ -73,9 +75,17 @@ The Decision Tree model achieved the highest accuracy of 0.9988, making it the b
 ## ⚠️ Limitations
 The dataset size (5952 rows) may lead to underfitting. Additionally, traffic prediction involves numerous factors beyond those considered, such as road maintenance, fuel prices, and real-time traffic updates, which were not included in this analysis.
 
+## 🚀 How to Run
+
+1. **Download** all the files in the repository.
+2. **Save** them in a folder on your computer.
+3. **Open** the folder in VS Code.
+4. **Run** the following command in the terminal:  streamlit run Final_GUI.py
+                                    
 ## 🔚 Conclusion
 This project demonstrates the efficacy of machine learning in predicting traffic congestion. By focusing on critical features like time, weather, and vehicle counts, the Decision Tree model emerged as the top performer, providing a robust foundation for future enhancements and real-time traffic management solutions.
 
+```bash
 
 
 Happy Predicting! 🚗🚴‍♂️🚌🚛
