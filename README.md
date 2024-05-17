@@ -75,19 +75,7 @@ The Decision Tree model achieved the highest accuracy of 0.9988, making it the b
 ## ⚠️ Limitations
 The dataset size (5952 rows) may lead to underfitting. Additionally, traffic prediction involves numerous factors beyond those considered, such as road maintenance, fuel prices, and real-time traffic updates, which were not included in this analysis.
 
-## 🚀 How to Run
-
-1. **Download** all the files in the repository.
-2. **Save** them in a folder on your computer.
-3. **Open** the folder in VS Code.
-4. **Run** the following command in the terminal:
-
-  ```bash
-   streamlit run Final_GUI.py
-                
 ## 🔚 Conclusion
 This project demonstrates the efficacy of machine learning in predicting traffic congestion. By focusing on critical features like time, weather, and vehicle counts, the Decision Tree model emerged as the top performer, providing a robust foundation for future enhancements and real-time traffic management solutions.
-
-
 
 Happy Predicting! 🚗🚴‍♂️🚌🚛
