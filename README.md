@@ -30,7 +30,7 @@ The dataset used for this project is sourced from Kaggle. It contains 5952 data 
 - **Total:** Total number of vehicles detected in a 15-minute interval.
 - **Traffic Situation:** Classified into four categories: Heavy, High, Normal, Low.
 - **Weather:** Weather conditions categorized as "Sunny", "Neutral", and "Foggy".
-- **Is Peak Hour:** A binary indicator for peak traffic hours (6-10 AM and 3-9 PM).
+- **Is Peak Hour:** A binary indicator for peak traffic hours (6-10 AM and 3-9 PM). (Additional column created to make the predictions for better)
 
 ## ⚙️ Methodology
 ### Data Preprocessing
