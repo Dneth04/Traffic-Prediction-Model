@@ -39,7 +39,7 @@ The dataset used for this project is sourced from Kaggle. It contains 5952 data 
 - **Cleaning:** The dataset was cleaned by removing irrelevant features like the `Date` column.
 
 ### Experimentation
-- **Models:** Four models were trained and tested: Decision Tree, K-Nearest Neighbors (KNN), Multiple Linear Regression, and Random Forest.
+- **Models:** Four models were trained and tested: Decision Tree, K-Nearest Neighbors (KNN) and Random Forest.
 - **Metrics:** The models were evaluated based on accuracy, Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared score (R2 Score).
 
 ## 🧠 Algorithms
@@ -48,9 +48,6 @@ A supervised learning method suitable for both classification and regression tas
 
 ### K-Nearest Neighbors (KNN)
 A supervised learning algorithm used for classification and regression, which classifies data points based on the proximity to training examples.
-
-### Multiple Linear Regression
-A statistical technique modeling the relationship between a dependent variable and multiple independent variables, assuming a linear relationship.
 
 ### Random Forest
 An ensemble method that constructs multiple decision trees during training and outputs the mean prediction of the individual trees for regression tasks.
